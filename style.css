@@ -1,0 +1,14 @@
+table{
+	border-radius: 50px;
+	background: linear-gradient(50deg,#00BFFF,#32CD32);
+	border-style: double;
+}
+
+tr,td{
+	border: none;
+}
+input{
+	border-radius: 37px;
+	text-align: center;
+	
+}
